@@ -5,6 +5,11 @@
 ##### not?
 ###### so
 this is my homework   
+### 上課心得
+>覺得老師上課的內容和速度都可以跟到，不會覺得太快或太慢，可以的話想多聽一些關於如何增加團隊有效溝通的技巧，還想知道如果要應徵國外的工作的話需要俱備怎樣的實力，因為想要遠距工作，感覺就很需要良好的溝通技巧。
+
+##### 以下可以隨便看看
+
 *Actually I don't know what to write* .  
 __Just write about my dental implant today.__    
 _I was a little **nervous** about going to the dentist_   
