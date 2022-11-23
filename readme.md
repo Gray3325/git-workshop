@@ -29,3 +29,7 @@ _I was a little **nervous** about going to the dentist_
 
 ## Images
 
+![This is my drawing.](https://images.plurk.com/4SETiiYLsRPp4tmF6xdbEt.jpg) .  
+This is the picture I drew before.   
+If you like, you can help follow [my instagram](https://www.instagram.com/graycat_artwork/) .  
+
