@@ -59,3 +59,9 @@ funtion sss(b) {
 console.log(sss(2));
 ```
 
+## Code2
+
+the answer is ` 3 `.
+
+# The End .
+
