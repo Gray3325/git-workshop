@@ -33,3 +33,29 @@ _I was a little **nervous** about going to the dentist_
 This is the picture I drew before.   
 If you like, you can help follow [my instagram](https://www.instagram.com/graycat_artwork/) .  
 
+## something I like   
+>Education teaches us how to make decisions, but we rarely have the opportunity to carefully sort out and think about it. Before yes or no, there will be many positive and negative thoughts in it, and finally the two parties are persuaded to become the answer.      
+>>Don't hate yourself in this state. Whether it’s not straightforward enough, whether you want to escape, or can’t face it. It’s okay to be confused about what to do and what to do. It's normal to go back and forth.
+
+## Table
+
+| to the | **best person** |
+| -------------|:---|
+|left  |  right| RRR |
+|Accepting | who you are now |
+|is far more difficult than | than becoming an illusory "better person".|
+| People who deny themselves | are lonely no matter where they are. |
+
+Although loneliness is not a bad thing.
+But there is no way to identify with yourself, it will be really very lonely.
+
+## Code
+
+```js
+let a = 1 ;
+funtion sss(b) {
+    b = 1 + a ;
+}
+console.log(sss(2));
+```
+
