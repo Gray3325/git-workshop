@@ -17,8 +17,15 @@ _I was a little **nervous** about going to the dentist_
 1.And then that word grew louder and louder         
 2.Til it was a battle cry       
 3.I'll come back   
-4.When you call me
+4.When you call me  
 5.No need to say goodbye   
 
+## Waving Through A Window
 
+1. I've learned to slam on the brake
+1. Before I even turn the key   
+    1. Before I make the mistake
+    1. Before I lead with the worst of me   
+
+## Images
 
